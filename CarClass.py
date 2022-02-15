@@ -1,6 +1,3 @@
-from pyexpat import model
-
-
 class Car:
     def __init__(self, yearModel, make, speed):
         self.__year_model = yearModel
